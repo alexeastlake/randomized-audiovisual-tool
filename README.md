@@ -1,4 +1,4 @@
-# Random Audiovisual Tool
+# Randomized Audiovisual Tool
 
 This tool is to create a audiovisual installation performance using randomly generated rhythms and synthesisers.
 
